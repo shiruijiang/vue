@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # name
 
 ## Project setup
@@ -27,3 +28,7 @@ npm run lint
 
 ### Customize configuration
 See [Configuration Reference](https://cli.vuejs.org/config/).
+=======
+# vue
+实例
+>>>>>>> 40a536ff06e284bed1dfbd226fc8fdfb21b2984c
